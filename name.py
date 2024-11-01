@@ -1,7 +1,7 @@
 cat_attributes = {
-    "intelligence": 0,
-    "energy": 0,
-    "weight": 0,
+    "intelligence": 10,
+    "energy": 10,
+    "weight": 10,
     # change the inital values above
 }
 
